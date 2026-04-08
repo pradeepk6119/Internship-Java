@@ -7,7 +7,7 @@ class Circle
         System.out.println("Creating a circle of radius "+rad);
         radius=rad;
     }
-    void daimeter(){
+    void diameter(){
         double dia=2*radius;
         System.out.println("Diameter of circle is "+dia);
     }
